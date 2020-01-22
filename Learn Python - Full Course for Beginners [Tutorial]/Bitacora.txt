@@ -1,0 +1,20 @@
+13/Eero/2020
+Se realizaron los siguientes ejercicios, siguiendo un curso para principiantes. 
+  
+	001_a_helloWorld.py
+	002_a_var_and_dataType.py
+	002_b_var_and_dataType.py
+	003_a_MainDataTypes.py
+	004_a_workingWithStrings.py
+	004_b_stringVariable.py
+	004_c_StringVarConcatenation.py
+	004_d_StringFunctionLower.py
+
+14/Eero/2020
+
+	004_g_StringVariasFunctions.py
+Donde vimos como se pueden unir varias funciones .upper().isupper() ... 
+	004_h_StringLenFunc.py
+Usamos la funcion len() que regresa el numero de caracteres de un string
+	004_i_StringIntexNum.py
+Se puede accesar a un caracter de un string con su index number que va entre []
