@@ -17,5 +17,5 @@ lista_humanos.sort()
 lista_numeros.sort()
 
 # Luego las mandamos imprimir ordenadas. Si ponemos print(lista_humanos.sort()) sale None
-print(lista_humanos)
-print(lista_numeros)
+print(lista_humanos) # ['Bush', 'Goku', 'Goku', 'Goku', 'Jesus', 'Yamsha']
+print(lista_numeros) # [1, 2, 5, 12, 23, 31, 65]
