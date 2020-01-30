@@ -17,4 +17,4 @@ print(lista_humanos.index("Yamsha"))  # 0
 
 # Esto tambien lo podemos utiliar para detectar si algo existe dentro de la lista,
 # si no regresa un index number es porque no existe y saldra un error.
-print(lista_humanos.index("Cucuy"))  # Error
+print(lista_humanos.index("Cucuy"))  # ValueError: 'Cucuy' is not in list
