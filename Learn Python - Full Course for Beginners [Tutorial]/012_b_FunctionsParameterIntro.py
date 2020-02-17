@@ -9,4 +9,4 @@ def print_name(name):
 
 # Asi se llama la funcion enviando un parametro
 print_name("Brian") # Hello Brian
-print_name("Arnold") # Hello Monthy
+print_name("Arnold") # Hello Arnold
