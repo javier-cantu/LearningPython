@@ -18,3 +18,24 @@ Donde vimos como se pueden unir varias funciones .upper().isupper() ...
 Usamos la funcion len() que regresa el numero de caracteres de un string
 	004_i_StringIntexNum.py
 Se puede accesar a un caracter de un string con su index number que va entre []
+
+
+
+17/Febrero/2020
+011_a_TuplesIntro.py
+011_b_ListOfTuples.py
+
+012_a_FunctionsIntro.py
+012_b_FunctionsParameterIntro.py
+012_c_Functions2Parameters.py
+
+013_a_ReturnStatementIntro.py
+013_b_ReturnStatementIntro.py
+
+
+
+
+
+
+
+
