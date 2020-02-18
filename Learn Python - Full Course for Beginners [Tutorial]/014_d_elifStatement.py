@@ -6,7 +6,7 @@
 a = False
 b = True
 
-# If elif statement usando not() y and 
+# If elif statement usando not() y and
 if a and b:
     print("a y b son True")
 # elif permite evaluar de otra manera
@@ -15,4 +15,4 @@ elif a and not(b): # not(b) hace que se evalue como lo opuesto
 elif not(a) and b:
     print("a es False y b es True")
 else:
-    print("a o b son False")
+    print("a y b son False")
