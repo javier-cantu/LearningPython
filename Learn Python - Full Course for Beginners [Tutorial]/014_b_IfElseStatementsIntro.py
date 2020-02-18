@@ -12,4 +12,4 @@ is_daytime = False # Ahora es false para que no se cumple el if
 if is_daytime:
     print("Is daytime")
 else: # else con :
-    print("Is nighttime!")
+    print("Is night time!")
