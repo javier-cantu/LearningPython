@@ -15,6 +15,6 @@ else:
 
 # AND
 if a and b:
-    print("a y b son Iguales")
+    print("a y b son True")
 else:
-    print("a o b son Diferentes")
+    print("a o b son False")
